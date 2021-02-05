@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  2 21:13:09 2021
-
-@author: teddy
-"""
-
+# 기본 계산기 
 def add(a,b):
     return a+b
 
